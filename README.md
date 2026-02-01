@@ -5,4 +5,14 @@ After installation, use your compiler of choice to compile Task-CLI, located in 
 After compilation, you can directly access the application through the terminal.
 
 Usage:
-To reset or initialize, execute:
+- To reset or initialize, execute:
+`task-cli -init`
+
+- To add a task:
+`task-cli -add "name"`
+
+- To remove a task:
+`task-cli -pop "name"`
+
+- To list out your tasks:
+`task-cli -list`
