@@ -18,4 +18,4 @@ Usage:
 `task-cli -list`
 
 Repository link:
-https://roadmap.sh/projects/task-tracker
+https://github.com/LucasCW917/Task-CLI
